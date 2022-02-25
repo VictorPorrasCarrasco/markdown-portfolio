@@ -29,3 +29,20 @@ _También **puedes** combinarlos_
 __Este también estará en negrita__
 
 _**Este texto estará en cursiva y negrita**_
+
+_También **puedes** combinarlos_
+
+*Este texto estará en sadadsadadaddcursiva*
+**Este texto estará en negrita**
+__Este también estará en negrita__
+
+_**Este texto estará en cursiva y negrita**_
+
+
+_También **puedes** combinarlos_
+
+*Este texto estará en sadadsadadaddcursiva*
+**Este texto estará en negrita**
+__Este también estará en negrita__
+
+_**Este texto estará en cursiva y negrita**_
